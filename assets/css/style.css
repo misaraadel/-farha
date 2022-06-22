@@ -1754,7 +1754,7 @@ header .owl-theme .owl-nav.disabled + .owl-dots {
       -ms-flex-pack: center;
           justify-content: center;
   color: #FFA800;
-  font-size: 18px;
+  font-size: 17px;
   font-weight: 900;
   line-height: 28px;
 }
